@@ -49,13 +49,7 @@ Bigdata-AI
 현재 영어에 비해 한글에 대한 자연어 처리가 불완전한 상태지만, 점점 더 발전되고 있고 지원 언어를 늘리고 있다.
 
 
-Text Analytics with Python, 2nd Edition
-  ------------------------------------------
-• Understand NLP and text syntax, semantics and structure
-• Discover text cleaning and feature engineering
-• Review text classification and text clustering
-• Assess text summarization and topic models
-• Study deep learning for NLP
+
 
 1) 머신러닝 학습 : 사용자의 의도(intent)를 분석하고 이해하며, 예시 문장을 입력하면 이와 비슷한 문장을 자동으로 학습.
 2) 멀티 플랫폼 지원 : 기존 플랫폼과 연동이 손쉽다. (슬랙, 알렉사, 페북 메신저, 텔레그램)
@@ -145,3 +139,10 @@ https://github.com/bjpublic/tmwithpython
 
 
 
+Text Analytics with Python, 2nd Edition
+  ------------------------------------------
+• Understand NLP and text syntax, semantics and structure
+• Discover text cleaning and feature engineering
+• Review text classification and text clustering
+• Assess text summarization and topic models
+• Study deep learning for NLP
