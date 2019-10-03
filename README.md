@@ -48,6 +48,15 @@ Bigdata-AI
 의도분석, 성분분석 등을 통해 자연어 처리를 제공하며 머신러닝의 저수준 개발까지 익히지 않아도 쉽게 챗봇개발이 가능.
 현재 영어에 비해 한글에 대한 자연어 처리가 불완전한 상태지만, 점점 더 발전되고 있고 지원 언어를 늘리고 있다.
 
+
+Text Analytics with Python, 2nd Edition
+  ------------------------------------------
+• Understand NLP and text syntax, semantics and structure
+• Discover text cleaning and feature engineering
+• Review text classification and text clustering
+• Assess text summarization and topic models
+• Study deep learning for NLP
+
 1) 머신러닝 학습 : 사용자의 의도(intent)를 분석하고 이해하며, 예시 문장을 입력하면 이와 비슷한 문장을 자동으로 학습.
 2) 멀티 플랫폼 지원 : 기존 플랫폼과 연동이 손쉽다. (슬랙, 알렉사, 페북 메신저, 텔레그램)
 3) 멀티 개발 SDK 제공 : 스마트 디바이스(휴대폰, 웨어러블 디바이스, 스피커, 자동차)에 적합한 개발을 위한 다양한 SDK제공하며, 개발언어별 SDK는 물론, 안드로이드와 iOS등의 플랫폼SDK도 제공
